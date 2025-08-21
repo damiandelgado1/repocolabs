@@ -1,2 +1,3 @@
-# repocolabs
-repo for add new collabs with other users
+# Repositorio remoto
+
+En este repositorio se guarda documentacion de todos el proceso de desarrollo del repositorio
